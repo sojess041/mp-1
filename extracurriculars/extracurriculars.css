@@ -1,0 +1,69 @@
+
+p {
+    font-family: 'Space Mono', monospace;
+  }
+  h1 {
+    font-family: 'Space Mono', monospace, bold;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+
+  }
+
+/*page wrapper */
+.wrapper{
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 2% 5%;
+}
+
+/*main tag styling */
+main{
+  height: auto;
+  
+}
+
+
+  /* Navigation styling */
+nav a {
+  text-decoration: none;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: bold;
+  color: #95d2e6;
+  display: inline-block;
+  margin: 0 10px;
+  border-bottom: 2px solid #cce5eb;
+  margin-top: 30px;
+  text-align: center;
+}
+ 
+
+/*text stying*/
+.extracurriculars{
+  font-family: 'Space Mono', monospace;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+
+}
+
+table{
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  border-spacing: 40px 20px;
+  background-color: #95d2e6;
+}
+
+
+/*footer styling to bring it to the bottom of the page*/
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-top:15%;
+  text-align: center;
+}
+
+

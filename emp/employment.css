@@ -1,0 +1,82 @@
+
+
+/*page wrapper */
+.wrapper{
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 2% 5%;
+}
+
+/*main tag styling */
+main{
+  height: auto;
+  
+}
+/*text styling */
+p {
+    font-family: 'Space Mono', monospace;
+  }
+  h1 {
+    font-family: 'Space Mono', monospace, bold;
+    font-weight: 900;
+    text-align: center;
+
+  }
+
+/* Navigation styling */
+nav a {
+  text-decoration: none;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: bold;
+  color: #95d2e6;
+  display: inline-block;
+  margin: 0 10px;
+  border-bottom: 2px solid #cce5eb;
+  margin-top: 30px;
+  text-align: center;
+}
+
+body {
+ background-color: #fefefd;
+
+}
+
+.flower1 {
+  width: 300px;
+  margin-left: 40px;
+  top: 100px;
+  position: absolute;
+}
+
+.flower2 {
+  width: 300px;
+  margin-left: 990px;
+  top: 100px;
+  position: absolute;
+ 
+}
+
+table{
+  background-color: #DEF1D7;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  border-spacing: 40px 20px;
+}
+
+td {
+  font-family: 'Space Mono', monospace;
+  font-size: 16px;
+  padding: 10px;
+
+}
+
+/*footer styling to bring it to the bottom of the page*/
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+}
