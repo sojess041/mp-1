@@ -78,7 +78,7 @@ footer {
 
 /*styling for side photos*/
 .decor {
-  position: absolute;
+  position: fixed;
   width: 100px;
   height: auto;
   z-index: -1;
@@ -87,35 +87,23 @@ footer {
 }
 
 .beach {
-  width: 150px;
-  margin-left: 960px;
-  margin-right: auto;
-  margin-top: 200px;
-  display: block;
+  left: 20vw;
+  top: 20vh;
+
 }
 
 .woods {
-  width: 150px;
-  margin-left: 60px;
-  margin-right: auto;
-  margin-top: 200px;
-  display: block;
+  left: 20vw;
+  top: 40vh;
 }
 
 .icecream {
-  width: 150px;
-  margin-left: 300px;
-  margin-right: auto;
-  margin-top: 200px;
-  display: block;
+  right: 20vw;
+  top: 20vh;
 }
-
 .buko {
-  width: 150px;
-  margin-left: 1270px;
-  margin-right: auto;
-  margin-top: 200px;
-  display: block;
+  right: 20vw;      
+  top: 40vh;
 }
 
 .mainimage {
